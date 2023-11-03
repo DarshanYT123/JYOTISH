@@ -1,0 +1,33 @@
+@import url("https://fonts.cdnfonts.com/css/euclid-circular-a");
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lexend&display=swap');
+
+html {
+  scroll-behavior: smooth;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.textcut {
+text-decoration-line: strikethrough;
+}
+/* 
+ .changeColor {
+  color: #FFA300;
+}
+.changeColor:hover {
+  color: white;
+} */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
